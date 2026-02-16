@@ -17,8 +17,8 @@ Well versed with Web Development{HTML,CSS,JS)
 <p>Aspiring Software Engineer||System administrator</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Festuskyalo254&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Festuskyalo254&layout=compact&theme=dark" alt="Top Languages" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Festuskyalo254&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Festuskyalo254&layout=compact&theme=dark)
 </div>
 
 ## About Me
