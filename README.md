@@ -38,13 +38,13 @@ course.
 ## Projects
 
 Been a programming enthusiast i have worked on various projects such as:<BR>
-Inventory Management System<BR>
-Apartment Mangement System<BR>
-Network Traffic Analyzer(ONGOING)<BR>
+Lexdrift Ecommerce site<BR>
+EduFlow AI supported LMS<BR>
+Heztom Website<BR>
 Car Engine Diagnostic System<BR>
-Festus Kyalo Website<BR>
+Festus Kyalo Portfolio<BR>
 Automated Petrol Station <BR>
-AI Supported Chatbot<BR> 
+ChamaFZ savings Web App<BR> 
 
 ## Contact
 Reach Your Fellow Developer at:<BR>
@@ -52,7 +52,7 @@ Email:festusk625@gmail.com<BR>
 LinkedIn:https://www.linkedin.com/in/kyalofestus/<BR>
 Instagram:https://www.instagram.com/festus.nicholas.73/<BR>
 Twitter(X):https://x.com/Malloh625<BR>
-Phone:  (+254) 7-97-64-69-98||1-14-75-56-73<BR>
+Phone:  (+254) 1-14-75-56-73<BR>
 </BODY>
 </HTML>
 
